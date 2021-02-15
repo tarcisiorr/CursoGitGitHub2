@@ -1,6 +1,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/tarcisiorr/CursoGitGitHub2)
 ![GitHub](https://img.shields.io/github/license/tarcisiorr/GitGitHub2)
 ![Twitter Follow](https://img.shields.io/twitter/follow/POTUS?label=Seguir&style=social)
+![GitHub language count](https://img.shields.io/github/languages/count/tarcisiorr/GitGitHub2)
+![GitHub top language](https://img.shields.io/github/languages/top/tarcisiorr/GitGitHub2)
 # Editando o README do CursoGitGitHub2
 ## Repositório criado no GitHub
 Alterando o arquivo README e inserindo um GIF animado.
